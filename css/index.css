@@ -17,12 +17,24 @@ body {
 .stageBox .topContainer {
   margin-top: 60px;
 }
+
+.stageBox .topContainer > div {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
 .stageBox .topContainer .topLeftContainer {
   float: left;
   margin-left: 5%;
-  width: 43px;
+  width: 40%;
   height: 43px;
 }
+
+.stageBox .topContainer .topLeftContainer > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
 .stageBox .topContainer .topLeftContainer .squareLogo {
   margin: 0 auto;
   width: 43px;
@@ -49,10 +61,11 @@ body {
   color: #FFFFFF;
   white-space: nowrap;
 }
+
 .stageBox .topContainer .topRightContainer {
-  width: 55%;
+  width: 50%;
   float: right;
-  margin-right: 50px;
+  margin-right: 5%;
 }
 .stageBox .topContainer .topRightContainer .rightUnselected a {
   float: right;
