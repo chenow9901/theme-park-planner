@@ -1,0 +1,124 @@
+{
+    "Disneyland": [
+        {
+            "ride_name": "Disneyland Railroad",
+            "ride_time": 823
+        },
+        {
+            "ride_name": "Jungle Cruise",
+            "ride_time": 509
+        },
+        {
+            "ride_name": "Indiana Jones Adventure",
+            "ride_time": 181
+        },
+        {
+            "ride_name": "Pirates of the Caribbean",
+            "ride_time": 888
+        },
+        {
+            "ride_name": "Haunted Mansion",
+            "ride_time": 266
+        },
+        {
+            "ride_name": "Splash Mountain",
+            "ride_time": 343
+        },
+        {
+            "ride_name": "The Many Adventures of Winnie the Pooh",
+            "ride_time": 163
+        },
+        {
+            "ride_name": "Big Thunder Mountain Railroad",
+            "ride_time": 194
+        },
+        {
+            "ride_name": "Mark Twain Riverboat",
+            "ride_time": 247
+        },
+        {
+            "ride_name": "Sailing Ship Columbia",
+            "ride_time": 465
+        },
+        {
+            "ride_name": "Star Wars: Rise of the Resistance",
+            "ride_time": 266
+        },
+        {
+            "ride_name": "Millennium Falcon: Smuggler's Run",
+            "ride_time": 263
+        },
+        {
+            "ride_name": "Peter Pan's Flight",
+            "ride_time": 102
+        },
+        {
+            "ride_name": "Mr. Toad's Wild Ride",
+            "ride_time": 113
+        },
+        {
+            "ride_name": "Pinocchio's Daring Journey",
+            "ride_time": 170
+        },
+        {
+            "ride_name": "Snow White's Scary Adventures",
+            "ride_time": 112
+        },
+        {
+            "ride_name": "Alice in Wonderland",
+            "ride_time": 212
+        },
+        {
+            "ride_name": "Mad Tea Party",
+            "ride_time": 90
+        },
+        {
+            "ride_name": "Storybook Land Canal Boats",
+            "ride_time": 354
+        },
+        {
+            "ride_name": "Casey Jr. Circus Train",
+            "ride_time": 269
+        },
+        {
+            "ride_name": "Dumbo the Flying Elephant",
+            "ride_time": 100
+        },
+        {
+            "ride_name": "Matterhorn Bobsleds",
+            "ride_time": 105
+        },
+        {
+            "ride_name": "It's a small world",
+            "ride_time": 381
+        },
+        {
+            "ride_name": "Roger Rabbit's Car Toon Spin",
+            "ride_time": 177
+        },
+        {
+            "ride_name": "Gadget's Go Coaster",
+            "ride_time": 58
+        },
+        {
+            "ride_name": "Disneyland Monorail",
+            "ride_time": 508
+        },
+        {
+            "ride_name": "Finding Nemo Submarine Voyage",
+            "ride_time": 627
+        },
+        {
+            "ride_name": "Autopia",
+            "ride_time": 189
+        },
+        {
+            "ride_name": "Space Mountain",
+            "ride_time": 211
+        },
+        {
+            "ride_name": "Buzz Lightyear Astro Blasters",
+            "ride_time": 290
+        }
+    ]
+}
